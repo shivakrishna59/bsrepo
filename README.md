@@ -1,4 +1,4 @@
-## Prerequisites for project..........hello. guys how are you. its my projectH
+## Prerequisites for project...hii.......hello. guys how are you. its my projectH
 - JDK 1.8 or later
 - Maven 3 or later
 - MySQL 5.6 or later
